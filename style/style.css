@@ -84,7 +84,7 @@ body {
   font-size: 1.8rem;
   border: none;
   border-radius: 10px;
-  background-image: url("./img/user-nurse-solid.svg");
+  background-image: url("img/user-nurse-solid.svg");
   background-repeat: no-repeat;
   background-position: 20px 50%;
   background-size: 50px;
@@ -148,7 +148,7 @@ body {
 }
 
 .login__checkbox--input[type="checkbox"]:checked {
-  background-image: url("img/check-solid.svg");
+  background-image: url("/img/check-solid.svg");
   background-size: 70%;
   background-position: 50% 50%;
   background-repeat: no-repeat;
