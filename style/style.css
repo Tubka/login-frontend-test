@@ -148,7 +148,7 @@ body {
 }
 
 .login__checkbox--input[type="checkbox"]:checked {
-  background-image: url("./img/check-solid.svg");
+  background-image: url("img/check-solid.svg");
   background-size: 70%;
   background-position: 50% 50%;
   background-repeat: no-repeat;
